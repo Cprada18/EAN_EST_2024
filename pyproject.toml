@@ -17,6 +17,7 @@ scikit-learn = "^1.5.2"
 openpyxl = "^3.1.5"
 plotly = "^5.24.1"
 nbformat = "^5.10.4"
+pyjanitor = "^0.29.1"
 
 
 [build-system]
